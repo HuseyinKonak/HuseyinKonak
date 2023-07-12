@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HuseyinKonak20)&nbsp; 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huseyinkonakyt7766) 
 
-# My Information
+# ⁉️ My Information
 ![OS](https://img.shields.io/badge/Windows%2011-OS?style=flat&logo=Windows&label=%20OS&color=%2300a1f1)&nbsp; 
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)&nbsp; 
 ![Browser](https://img.shields.io/badge/Opera%20GX-Browser?style=flat&logo=opera&label=Browser&color=%2300a1f1)
