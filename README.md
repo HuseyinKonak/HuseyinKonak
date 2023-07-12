@@ -8,6 +8,8 @@
 # My Information
 ![OS](https://img.shields.io/badge/Windows%2011-OS?style=flat&logo=Windows&label=%20OS&color=%2300a1f1)
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![Browser](https://img.shields.io/badge/Opera%20GX-Browser?style=flat&logo=opera&label=Browser&color=%2300a1f1)
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
